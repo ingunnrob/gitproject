@@ -1,1 +1,3 @@
 This is a master file with some content.
+
+Now I am adding some content from the develop branch to the master file.
